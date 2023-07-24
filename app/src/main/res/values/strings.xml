@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Calc</string>
+    <string name="nine">9</string>
+    <string name="eight">8</string>
+    <string name="seven">7</string>
+    <string name="six">6</string>
+    <string name="five">5</string>
+    <string name="four">4</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="one">1</string>
+    <string name="zero">0</string>
+
+    <string name="add">+</string>
+    <string name="minus">-</string>
+    <string name="divide">/</string>
+    <string name="multiply">x</string>
+    <string name="num1">Number 1</string>
+    <string name="Num2">Number 2</string>
+    <string name="operand">Operand </string>
+    <string name="disp1"> </string>
+    <string name="disp2"> </string>
+    <string name="Title">Calculator</string>
+    <string name="ans">Answer</string>
+    <string name="ansdisp"> </string>
+    <string name="refresh">Refresh</string>
+    <string name="equals">=</string>
+
+
+
+
+</resources>
